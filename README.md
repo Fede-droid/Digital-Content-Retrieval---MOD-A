@@ -7,8 +7,8 @@ This MATLAB script generates a smooth color gradient by interpolating between sp
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/gradient-generator.git
-   cd gradient-generator
+   git clone https://github.com/Fede-droid/Digital-Content-Retrieval---MOD-A.git
+   cd PersonalProject
    ```
 
 2. **Run the Script:**
