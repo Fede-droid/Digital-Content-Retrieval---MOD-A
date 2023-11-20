@@ -1,5 +1,5 @@
-%% -- DCR-MOD A: CIGNOLI PROGRAM --
-% Author: Federico Cignoli
+%% -- DCR-MOD A: Fede-droid PROGRAM --
+% Author: Fede-droid
 % Created: November 2023
 %
 % Objective: Create a custom color gradient
