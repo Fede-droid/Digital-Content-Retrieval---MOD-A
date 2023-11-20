@@ -1,4 +1,5 @@
 # Digital-Content-Retrieval - MOD A
+
 ## Color Gradient Generator
 
 This MATLAB script generates a smooth color gradient by interpolating between specified colors. The user is prompted to input the desired number of colors, and the script creates a visual representation of the gradient.
